@@ -27,7 +27,7 @@ const quotes = [
     character: "Principal Skinner",
     image:
       "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FSeymourSkinner.png?1497567511460"
- */ }
+  }*/
 ];
 
 const Quotes = () => (
